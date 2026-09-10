@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://isaac202.github.io/oliveira-co-landing-page/sitemap.xml
+Sitemap: https://www.oliveiraeco.com.br/sitemap.xml
